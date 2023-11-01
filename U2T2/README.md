@@ -1,4 +1,4 @@
-## Descrição dos networks
+## Networks
 ### High-energy physics citation network
 ### Social circles: Twitter
 ### Wikipedia vote network
