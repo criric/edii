@@ -3,7 +3,3 @@ A disciplina faz parte da grade de graduação de Engenharia da Computação na 
 
 ### Aluno: Cristian Soares de Souza Chagas Filho
 ### Professor: Ivanovitch Medeiros Dantas da Silva
-
-## Projetos Desenvolvidos
-
-- [Small Worlds](https://github.com/criric/edii/tree/main/SmallWorlds)

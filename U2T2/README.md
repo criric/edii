@@ -21,8 +21,8 @@ A rede de colaboração do Arxiv GR-QC (General Relativity and Quantum Cosmology
 
 ## Requisitos
 - [Requisito 2](./requisito_2)
-- [Requisito 3](./requisito_3): 
-- [Link para o vídeo](#)
+- [Requisito 3](./requisito_3)
+- [Link para o vídeo](https://www.loom.com/share/5d222f7d61fa44478921150d56a5e472?sid=6695b16d-4649-4750-878e-5f888c2c0bf1)
 
 ## Referências
 - [SNAP Stanford](http://snap.stanford.edu/data)
