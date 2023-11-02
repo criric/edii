@@ -1,6 +1,6 @@
 # Análise dos resultados
 
-## Rede: High-energy physics citation network
+## Rede: High-energy physics theory citation network
 ![Assortatividade do primeiro gráfico](../images/graph1.png)
 
 Gráfico decrescente, significando coeficiente de assortatividade negativo, ou seja, nós de grau mais baixo se conectam com nós de grau mais alto. Em resumo, é uma rede dissortativa.
